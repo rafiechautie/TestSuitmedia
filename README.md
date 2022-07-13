@@ -17,10 +17,10 @@ this project is created to fulfill test from Suitmedia
 
 ## Installation
 #### 1. download file APK in https://github.com/rafiechautie/TestSuitmedia/blob/master/app-debug.apk
-### 2. install that file in your mobile phone
+#### 2. install that file in your mobile phone
 
 
-or you can use clone this project
+### or you can use clone this project
 
 #### 1. Clone this Project to your Computer
 ```bash
